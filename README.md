@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Salah and I'm a QA Engineer</h2>
+<h2 align="left">Hi 👋! <br>I’m Salah a Senior QA Engineer</h2>
 
 ###
 
