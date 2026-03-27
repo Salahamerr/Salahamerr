@@ -6,20 +6,10 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/salahamer" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="82" height="53" alt="linkedin logo"  />
-  </a>
-  <a href="salahqc0@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="82" height="53" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+  <p align="center">
+    <a href="https://drive.google.com/file/d/15XYviPaYYie640XJsJyVMRHly8Lluw-2/view">
+      <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
+  </p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
