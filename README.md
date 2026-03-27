@@ -6,14 +6,18 @@
 
 ###
 
-  <p align="center">
+<p align="left"></p>
+
+ <p align="center">
     <a href="https://drive.google.com/file/d/15XYviPaYYie640XJsJyVMRHly8Lluw-2/view">
       <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
   </p>
 
+<p align="left"></p>
 
+###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -37,4 +41,4 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
-
+###
